@@ -68,3 +68,11 @@ EXEC sp_IngestRawData;
 --Check data in table
 SELECT * FROM dbo.stg_subledger;
 SELECT COUNT(*) FROM dbo.stg_subledger;
+
+SELECT * FROM dbo.stg_bank_feed;
+
+SELECT * FROM dbo.stg_chart_of_accounts;
+
+SELECT * FROM dbo.stg_raw_invoices;
+
+SELECT * FROM dbo.stg_master_directory;
