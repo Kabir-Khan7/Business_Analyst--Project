@@ -1,0 +1,21 @@
+GL_Account_Code,Account_Name,Account_Class,Financial_Statement_Section
+1000,Cash,Asset,Current Assets
+1100,Accounts Receivable,Asset,Current Assets
+1200,Inventory,Asset,Current Assets
+1500,Account 1500,Asset,Current Assets
+1600,Account 1600,Asset,Current Assets
+2000,Accounts Payable,Liability,Current Liabilities
+2100,Accrued Liabilities,Liability,Current Liabilities
+2200,Account 2200,Liability,Current Liabilities
+2500,Account 2500,Liability,Current Liabilities
+3000,Retained Earnings,Equity,Equity
+3100,Account 3100,Equity,Equity
+4000,Revenue - Services,Revenue,Operating Revenue
+4500,Account 4500,Revenue,Operating Revenue
+5000,Cost of Goods Sold,Expense,Cost of Goods Sold
+5100,Account 5100,Expense,Cost of Goods Sold
+5200,Account 5200,Expense,Cost of Goods Sold
+6000,Interest Income,Revenue,Other Income
+6500,Account 6500,Revenue,Other Income
+7000,Miscellaneous Expense,Expense,Other Expenses
+7500,Account 7500,Expense,Other Expenses

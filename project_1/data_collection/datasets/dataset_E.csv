@@ -1,0 +1,1391 @@
+Vendor_ID,Vendor_Name,Invoice_Number,Invoice_Date,Line_Item_Description,Line_Item_Quantity,Line_Item_Unit_Price,Total_Tax,Grand_Total,Raw_Text
+VEND_7476,Phi Services Corp,INV-00001,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00001
+Vendor: Phi Services Corp
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_7476,Phi Services Corp,INV-00002,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00002
+Vendor: Phi Services Corp
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_7476,Phi Services Corp,INV-00003,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00003
+Vendor: Phi Services Corp
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_7476,Phi Services Corp,INV-00004,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00004
+Vendor: Phi Services Corp
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_7561,Omicron Manufacturing Ltd,INV-00005,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00005
+Vendor: Omicron Manufacturing Ltd
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_7561,Omicron Manufacturing Ltd,INV-00006,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00006
+Vendor: Omicron Manufacturing Ltd
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_7561,Omicron Manufacturing Ltd,INV-00007,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00007
+Vendor: Omicron Manufacturing Ltd
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_7561,Omicron Manufacturing Ltd,INV-00008,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00008
+Vendor: Omicron Manufacturing Ltd
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_7561,Omicron Manufacturing Ltd,INV-00009,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00009
+Vendor: Omicron Manufacturing Ltd
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_7561,Omicron Manufacturing Ltd,INV-00010,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00010
+Vendor: Omicron Manufacturing Ltd
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_8077,Gamma Tech LLC,INV-00011,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00011
+Vendor: Gamma Tech LLC
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_8077,Gamma Tech LLC,INV-00012,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00012
+Vendor: Gamma Tech LLC
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_8077,Gamma Tech LLC,INV-00013,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00013
+Vendor: Gamma Tech LLC
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_8077,Gamma Tech LLC,INV-00014,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00014
+Vendor: Gamma Tech LLC
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_8077,Gamma Tech LLC,INV-00015,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00015
+Vendor: Gamma Tech LLC
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_8077,Gamma Tech LLC,INV-00016,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00016
+Vendor: Gamma Tech LLC
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_2807,Rho Trading S.A.,INV-00017,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00017
+Vendor: Rho Trading S.A.
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_2807,Rho Trading S.A.,INV-00018,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00018
+Vendor: Rho Trading S.A.
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_2807,Rho Trading S.A.,INV-00019,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00019
+Vendor: Rho Trading S.A.
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_2807,Rho Trading S.A.,INV-00020,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00020
+Vendor: Rho Trading S.A.
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_2807,Rho Trading S.A.,INV-00021,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00021
+Vendor: Rho Trading S.A.
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_2807,Rho Trading S.A.,INV-00022,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00022
+Vendor: Rho Trading S.A.
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_1100,Tau Logistics Pakistan,INV-00023,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00023
+Vendor: Tau Logistics Pakistan
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_1100,Tau Logistics Pakistan,INV-00024,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00024
+Vendor: Tau Logistics Pakistan
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_1100,Tau Logistics Pakistan,INV-00025,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00025
+Vendor: Tau Logistics Pakistan
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_1100,Tau Logistics Pakistan,INV-00026,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00026
+Vendor: Tau Logistics Pakistan
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_1100,Tau Logistics Pakistan,INV-00027,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00027
+Vendor: Tau Logistics Pakistan
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_1100,Tau Logistics Pakistan,INV-00028,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00028
+Vendor: Tau Logistics Pakistan
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_4309,Delta Tech Corp,INV-00029,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00029
+Vendor: Delta Tech Corp
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_4309,Delta Tech Corp,INV-00030,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00030
+Vendor: Delta Tech Corp
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_4309,Delta Tech Corp,INV-00031,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00031
+Vendor: Delta Tech Corp
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_4309,Delta Tech Corp,INV-00032,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00032
+Vendor: Delta Tech Corp
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_4309,Delta Tech Corp,INV-00033,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00033
+Vendor: Delta Tech Corp
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_4309,Delta Tech Corp,INV-00034,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00034
+Vendor: Delta Tech Corp
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_6636,Theta Distribution LLC,INV-00035,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00035
+Vendor: Theta Distribution LLC
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_6636,Theta Distribution LLC,INV-00036,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00036
+Vendor: Theta Distribution LLC
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_6636,Theta Distribution LLC,INV-00037,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00037
+Vendor: Theta Distribution LLC
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_6636,Theta Distribution LLC,INV-00038,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00038
+Vendor: Theta Distribution LLC
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_6636,Theta Distribution LLC,INV-00039,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00039
+Vendor: Theta Distribution LLC
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_6636,Theta Distribution LLC,INV-00040,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00040
+Vendor: Theta Distribution LLC
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_9469,Gamma Services LLC,INV-00041,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00041
+Vendor: Gamma Services LLC
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_9469,Gamma Services LLC,INV-00042,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00042
+Vendor: Gamma Services LLC
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_9469,Gamma Services LLC,INV-00043,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00043
+Vendor: Gamma Services LLC
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_9469,Gamma Services LLC,INV-00044,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00044
+Vendor: Gamma Services LLC
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_9469,Gamma Services LLC,INV-00045,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00045
+Vendor: Gamma Services LLC
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_9469,Gamma Services LLC,INV-00046,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00046
+Vendor: Gamma Services LLC
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_8598,Tau Manufacturing LLC,INV-00047,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00047
+Vendor: Tau Manufacturing LLC
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_8598,Tau Manufacturing LLC,INV-00048,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00048
+Vendor: Tau Manufacturing LLC
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_8598,Tau Manufacturing LLC,INV-00049,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00049
+Vendor: Tau Manufacturing LLC
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_8598,Tau Manufacturing LLC,INV-00050,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00050
+Vendor: Tau Manufacturing LLC
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_8598,Tau Manufacturing LLC,INV-00051,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00051
+Vendor: Tau Manufacturing LLC
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_8598,Tau Manufacturing LLC,INV-00052,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00052
+Vendor: Tau Manufacturing LLC
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_3295,Pi Services PK,INV-00053,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00053
+Vendor: Pi Services PK
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_3295,Pi Services PK,INV-00054,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00054
+Vendor: Pi Services PK
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_3295,Pi Services PK,INV-00055,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00055
+Vendor: Pi Services PK
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_3295,Pi Services PK,INV-00056,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00056
+Vendor: Pi Services PK
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_3295,Pi Services PK,INV-00057,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00057
+Vendor: Pi Services PK
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_3295,Pi Services PK,INV-00058,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00058
+Vendor: Pi Services PK
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_5961,Beta Distribution PVT,INV-00059,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00059
+Vendor: Beta Distribution PVT
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_5961,Beta Distribution PVT,INV-00060,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00060
+Vendor: Beta Distribution PVT
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_5961,Beta Distribution PVT,INV-00061,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00061
+Vendor: Beta Distribution PVT
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_5961,Beta Distribution PVT,INV-00062,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00062
+Vendor: Beta Distribution PVT
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_5961,Beta Distribution PVT,INV-00063,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00063
+Vendor: Beta Distribution PVT
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_5961,Beta Distribution PVT,INV-00064,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00064
+Vendor: Beta Distribution PVT
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_4205,Delta Tech Corp,INV-00065,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00065
+Vendor: Delta Tech Corp
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_4205,Delta Tech Corp,INV-00066,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00066
+Vendor: Delta Tech Corp
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_4205,Delta Tech Corp,INV-00067,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00067
+Vendor: Delta Tech Corp
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_4205,Delta Tech Corp,INV-00068,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00068
+Vendor: Delta Tech Corp
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_4205,Delta Tech Corp,INV-00069,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00069
+Vendor: Delta Tech Corp
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_4205,Delta Tech Corp,INV-00070,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00070
+Vendor: Delta Tech Corp
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_5444,Pi Distribution PVT,INV-00071,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00071
+Vendor: Pi Distribution PVT
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_5444,Pi Distribution PVT,INV-00072,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00072
+Vendor: Pi Distribution PVT
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_5444,Pi Distribution PVT,INV-00073,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00073
+Vendor: Pi Distribution PVT
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_5444,Pi Distribution PVT,INV-00074,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00074
+Vendor: Pi Distribution PVT
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_5444,Pi Distribution PVT,INV-00075,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00075
+Vendor: Pi Distribution PVT
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_5444,Pi Distribution PVT,INV-00076,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00076
+Vendor: Pi Distribution PVT
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_1942,Xi Consulting Inc,INV-00077,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00077
+Vendor: Xi Consulting Inc
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_1942,Xi Consulting Inc,INV-00078,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00078
+Vendor: Xi Consulting Inc
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_1942,Xi Consulting Inc,INV-00079,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00079
+Vendor: Xi Consulting Inc
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_1942,Xi Consulting Inc,INV-00080,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00080
+Vendor: Xi Consulting Inc
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_1942,Xi Consulting Inc,INV-00081,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00081
+Vendor: Xi Consulting Inc
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_1942,Xi Consulting Inc,INV-00082,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00082
+Vendor: Xi Consulting Inc
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_3941,Nu Consulting Ltd,INV-00083,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00083
+Vendor: Nu Consulting Ltd
+Date: 2026-04-10
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_3941,Nu Consulting Ltd,INV-00084,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00084
+Vendor: Nu Consulting Ltd
+Date: 2026-04-10
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_3941,Nu Consulting Ltd,INV-00085,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00085
+Vendor: Nu Consulting Ltd
+Date: 2026-04-10
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_3941,Nu Consulting Ltd,INV-00086,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00086
+Vendor: Nu Consulting Ltd
+Date: 2026-04-10
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_3941,Nu Consulting Ltd,INV-00087,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00087
+Vendor: Nu Consulting Ltd
+Date: 2026-04-10
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_3941,Nu Consulting Ltd,INV-00088,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00088
+Vendor: Nu Consulting Ltd
+Date: 2026-04-10
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_6869,Phi Consulting Pakistan,INV-00089,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00089
+Vendor: Phi Consulting Pakistan
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_6869,Phi Consulting Pakistan,INV-00090,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00090
+Vendor: Phi Consulting Pakistan
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_6869,Phi Consulting Pakistan,INV-00091,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00091
+Vendor: Phi Consulting Pakistan
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_6869,Phi Consulting Pakistan,INV-00092,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00092
+Vendor: Phi Consulting Pakistan
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_6869,Phi Consulting Pakistan,INV-00093,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00093
+Vendor: Phi Consulting Pakistan
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_6869,Phi Consulting Pakistan,INV-00094,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00094
+Vendor: Phi Consulting Pakistan
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_9231,Psi Trading Ltd,INV-00095,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00095
+Vendor: Psi Trading Ltd
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_9231,Psi Trading Ltd,INV-00096,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00096
+Vendor: Psi Trading Ltd
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_9231,Psi Trading Ltd,INV-00097,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00097
+Vendor: Psi Trading Ltd
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_9231,Psi Trading Ltd,INV-00098,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00098
+Vendor: Psi Trading Ltd
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_9231,Psi Trading Ltd,INV-00099,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00099
+Vendor: Psi Trading Ltd
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_9231,Psi Trading Ltd,INV-00100,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00100
+Vendor: Psi Trading Ltd
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_3821,Psi Consulting Inc,INV-00101,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00101
+Vendor: Psi Consulting Inc
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_3821,Psi Consulting Inc,INV-00102,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00102
+Vendor: Psi Consulting Inc
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_3821,Psi Consulting Inc,INV-00103,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00103
+Vendor: Psi Consulting Inc
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_3821,Psi Consulting Inc,INV-00104,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00104
+Vendor: Psi Consulting Inc
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_3821,Psi Consulting Inc,INV-00105,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00105
+Vendor: Psi Consulting Inc
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_3821,Psi Consulting Inc,INV-00106,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00106
+Vendor: Psi Consulting Inc
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL NET: 1212.20
+TAX: 0.00
+GRAND TOTAL: 1212.20
+"
+VEND_8940,Upsilon Services LLC,INV-00107,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00107
+Vendor: Upsilon Services LLC
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_8940,Upsilon Services LLC,INV-00108,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00108
+Vendor: Upsilon Services LLC
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_8940,Upsilon Services LLC,INV-00109,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00109
+Vendor: Upsilon Services LLC
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_8940,Upsilon Services LLC,INV-00110,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00110
+Vendor: Upsilon Services LLC
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_8940,Upsilon Services LLC,INV-00111,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00111
+Vendor: Upsilon Services LLC
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_8940,Upsilon Services LLC,INV-00112,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00112
+Vendor: Upsilon Services LLC
+Date: 2026-04-10
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+
+TOTAL (incl. tax): 1212.20
+"
+VEND_2080,Upsilon Tech PVT,INV-00113,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00113
+Vendor: Upsilon Tech PVT
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_2080,Upsilon Tech PVT,INV-00114,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00114
+Vendor: Upsilon Tech PVT
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_2080,Upsilon Tech PVT,INV-00115,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00115
+Vendor: Upsilon Tech PVT
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_2080,Upsilon Tech PVT,INV-00116,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00116
+Vendor: Upsilon Tech PVT
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_2080,Upsilon Tech PVT,INV-00117,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00117
+Vendor: Upsilon Tech PVT
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
+VEND_2080,Upsilon Tech PVT,INV-00118,2026-04-10 03:26:42,"Consulting Services, Product B","5, 2","197.96, 111.2",0,1212.2,"INVOICE #INV-00118
+Vendor: Upsilon Tech PVT
+Date: 2026-04-10
+
+TOTAL (incl. tax): 1212.20
+
+Items:
+Consulting Services              5 x   197.96 =     989.80
+Product B                        2 x   111.20 =     222.40
+
+"
