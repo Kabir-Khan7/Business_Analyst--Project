@@ -1,4 +1,4 @@
--- Module 2: Data Warehouse & Transformation
+﻿-- Module 2: Data Warehouse & Transformation
 
 IF OBJECT_ID('dbo.fct_subledger', 'U') IS NOT NULL DROP TABLE dbo.fct_subledger;
 IF OBJECT_ID('dbo.fct_bank_feed', 'U') IS NOT NULL DROP TABLE dbo.fct_bank_feed;
@@ -258,3 +258,22 @@ EXEC sp_TransformStagingToWarehouse;
 -- Step 3: Audit Check 
 SELECT COUNT(*) AS Production_BankFeed_Count FROM fct_bank_feed;
 
+/*
+The Big Picture 
+
+[SOURCE FILES]              [STAGING LAYER]              [WAREHOUSE LAYER]
+ Raw External Data          The "Forgiving" Landing Pad     The Hardened Star Schema
+(Flat CSV Datasets)             (All VarChar Strings)         (Typed Dimensions & Facts)
+ ┌───────────────┐               ┌───────────────────┐           ┌──────────────────────┐
+ │ Subledger     │ ────────────> │ stg_subledger     │ ────────> │ fct_subledger        │
+ ├───────────────┤               ├───────────────────┤           ├──────────────────────┤
+ │ Bank Feed     │ ────────────> │ stg_bank_feed     │ ────────> │ fct_bank_feed        │
+ ├───────────────┤    EXEC       ├───────────────────┤   EXEC    ├──────────────────────┤
+ │ Master Direct.│ ────────────> │ stg_master_direct.│ ────────> │ dim_entities         │
+ ├───────────────┤ sp_Ingest...  ├───────────────────┤ sp_Trans. ├──────────────────────┤
+ │ Chart of Accts│               │ stg_chart_of_accts│ ────────> │ dim_chart_of_accounts│
+ ├───────────────┤               ├───────────────────┤           ├──────────────────────┤
+ │ Invoices (Raw)│               │ stg_raw_invoices  │           │ dim_date (Auto-Gen)  │
+ └───────────────┘               └───────────────────┘           └──────────────────────┘
+
+*/
